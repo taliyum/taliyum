@@ -1,11 +1,13 @@
 <h1>Hello, World!</h1>
-<p>My name is Talita... I'm new in all this, still figuring out how everything works, but hopefully you will see a lot of my work here soon.</p>
-<p>I'm currently studying Software Engineering at a Brazilian University where I'm seeing mostly C language, although I have better interest on JS (with HTML, CSS and respective frameworks).</p>
-<p>I'm already graduated on Marketing, but I decided to start this new degree challenge during COVID restriction times, when I had a lot of spare time and tried a free course about Python.</p>
-<p>I have many ideas that I'm very excited about, but I'm trying to calm myself down to start from the easy/silly tasks until I can grow and achieve my goals, even after that I might need help, so I hope I find support in this platform.</p>
+<p>I'm a Marketing graduate diving into the world of AI and Software Engineering. During the COVID restrictions, I found myself with extra time and decided to explore my passion for creativity and innovation through a free Python course. </p>
 
-<p>I believe there's no better way of learning than practicing, so I hope I can contribute in this community too!</p>
-<p>Any tips and guidance is highly appreciated.</p>
+<p>As I'm new to this journey, I'm eager to share my work with you all and contribute to the community. I have a lot of exciting ideas I want to develop, but I'm focusing on starting with manageable tasks to build my skills gradually. I welcome any support and guidance as I navigate this learning curve!</p>
+
+<p>I truly believe that the best way to learn is through practice, and I'm excited to learn from my experiences and from all of you. If you have any tips or insights to share, they would be greatly appreciated!</p>
+
+
+<p>Looking forward to connecting and growing together!</p>
+
   
 <!---
 taliyum/taliyum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
